@@ -1,31 +1,19 @@
 Muhammad Ihtisham
-Experienced Software Developer | Problem Solver | Technology Enthusiast
+Experienced Full Stack Developer
 
-About Me 🚀
-With over 3 years of experience in full stack development, I specialize in creating robust and scalable applications using modern technologies. My extensive portfolio of 50+ projects showcases my ability to deliver high-quality solutions and solve complex problems.
+About Me
+With 3+ years of experience in full stack development, I specialize in building scalable, high-performance applications. My portfolio includes over 50 projects, demonstrating my expertise in solving complex technical challenges.
 
-Technical Skills 🛠️
-Front-End Technologies:
+Technical Skills
 
-Languages & Frameworks: HTML5, CSS3, JavaScript, TypeScript
-Libraries & Tools: React.js, Angular.js, Vue.js, Bootstrap, Sass, Tailwind CSS
-Back-End Technologies:
+Front-End: HTML5, CSS3, JavaScript, TypeScript, React.js, Angular.js, Vue.js, Bootstrap, Tailwind CSS
+Back-End: C#, ASP.NET Core, Web API, Blazor
+Databases: MySQL, PostgreSQL, Entity Framework, Dapper
+Other: REST APIs, GraphQL, SignalR, OAuth, Azure, AWS, Git, DevOps
+Key Achievements
 
-Core Skills: C#, ASP.NET Core MVC, ASP.NET Web API, Blazor
-Database Management: MySQL, PostgreSQL, Entity Framework, Dapper, LINQ
-Additional Skills: RESTful APIs, GraphQL, SignalR, Azure Functions, PowerShell
-Technologies & Tools:
-
-Integration & Security: JSON, AJAX, JWT, OAuth, IdentityServer
-Development Tools: Git, GitHub, GitLab, Azure DevOps, AWS, Postman
-Professional Approach 💼
-I am dedicated to delivering high-quality software solutions tailored to your needs. My approach involves a deep understanding of unique requirements and seamless integration of front-end and back-end systems to deliver results on time and within budget.
-
-Key Accomplishments 🎯
-Successfully developed and deployed 50+ full-stack applications across various industries.
-Implemented secure payment systems using PayPal and Stripe.
-Optimized database queries and designs, enhancing application performance.
-Education 🎓
-Bachelor’s Degree in Computer Science
-Let's Collaborate! 🚀
-Ready to turn your vision into reality? Let’s work together to elevate your project with innovative and reliable solutions.
+Delivered 50+ full-stack apps across various industries
+Implemented secure payment systems (PayPal, Stripe)
+Optimized database queries for performance gains
+Let’s Collaborate!
+Looking to bring your project to life with innovative, reliable solutions? Let’s connect!
